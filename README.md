@@ -1,5 +1,5 @@
 # Binary Search Tree (No Duplicates)
-## ULM Class Diagram
+## UML Class Diagram
 
 <img width="646" alt="Screenshot 2022-06-03 165539" src="https://user-images.githubusercontent.com/91988972/171968113-3dc40dd0-6005-4b93-b4b1-289b79c2e9a4.png">
 
